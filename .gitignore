@@ -1,9 +1,2 @@
-alu_sim
-synthesized_sim
 *.vcd
-*.vvp
-a.out
-*.json
-*.asc
-*.bin
-*.log
+*_sim
